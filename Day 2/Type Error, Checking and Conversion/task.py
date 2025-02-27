@@ -1,0 +1,11 @@
+len("hello")
+print(len("hello"))
+print(type("hello"))
+print(type(123))
+print(type(True))
+print(type(123.9))
+print("123"+"456")
+print(int("123")+int("456"))
+
+print(type("abc"))
+print("Number of letters in your name: " + str(len(input("Enter your name"))))
